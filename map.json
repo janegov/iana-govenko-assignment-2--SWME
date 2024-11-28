@@ -1,0 +1,319 @@
+{
+    "https://en.wikipedia.org/wiki/Software_metric": [
+        382.20000000298023,
+        319.3999999910593,
+        352.5,
+        350.59999999403954,
+        374.6000000089407,
+        333.40000000596046,
+        663.3999999910593,
+        310.40000000596046,
+        334.90000000596046,
+        333.70000000298023
+    ],
+    "visible": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&only=styles&skin=vector-2022": [
+        49.6000000089407,
+        47.3999999910593,
+        49,
+        46.5,
+        67.19999998807907,
+        48.20000000298023,
+        47.29999999701977,
+        69.29999999701977,
+        51.5,
+        47.29999999701977
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022": [
+        68.5,
+        60.3999999910593,
+        69.79999999701977,
+        68.3999999910593,
+        46.400000005960464,
+        69.20000000298023,
+        60.29999999701977,
+        57.30000001192093,
+        63.599999994039536,
+        67
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022": [
+        38.19999998807907,
+        71.59999999403954,
+        62.900000005960464,
+        57.5,
+        56.900000005960464,
+        51,
+        50.20000000298023,
+        40.099999994039536,
+        50.900000005960464,
+        50.29999999701977
+    ],
+    "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg": [
+        51.19999998807907,
+        52.1000000089407,
+        69.29999999701977,
+        57.8999999910593,
+        57.400000005960464,
+        52.5,
+        68,
+        40.20000000298023,
+        70.30000001192093,
+        51.20000000298023
+    ],
+    "https://en.wikipedia.org/static/images/icons/wikipedia.png": [
+        75.69999998807907,
+        77.5,
+        75.90000000596046,
+        74,
+        73.90000000596046,
+        75.20000000298023,
+        75.20000000298023,
+        77.5,
+        77.70000000298023,
+        75.70000000298023
+    ],
+    "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg": [
+        77.5,
+        78.20000000298023,
+        76.29999999701977,
+        75.8999999910593,
+        75.20000000298023,
+        76.5,
+        75.40000000596046,
+        70.70000000298023,
+        70.6000000089407,
+        75.90000000596046
+    ],
+    "long-animation-frame": [
+        99,
+        67,
+        100,
+        94,
+        85,
+        84,
+        77,
+        75,
+        113,
+        95,
+        75,
+        76
+    ],
+    "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=1vb1h": [
+        36.79999999701977,
+        86.20000000298023,
+        36.599999994039536,
+        37.70000000298023,
+        35.8999999910593,
+        38,
+        36.099999994039536,
+        77.29999999701977,
+        35.400000005960464,
+        34.70000000298023
+    ],
+    "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=1vb1h": [
+        35.79999999701977,
+        85.29999999701977,
+        36.29999999701977,
+        36.70000000298023,
+        35.1000000089407,
+        37,
+        37.099999994039536,
+        76.70000000298023,
+        34.79999999701977,
+        36.8999999910593
+    ],
+    "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=1vb1h": [
+        34.79999999701977,
+        84.30000001192093,
+        36.5,
+        36.6000000089407,
+        35.79999999701977,
+        37,
+        36.5,
+        75.59999999403954,
+        34.80000001192093,
+        37.29999999701977
+    ],
+    "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?5cd6d": [
+        35.70000000298023,
+        84.5,
+        37.5,
+        37.29999999701977,
+        35.900000005960464,
+        37.3999999910593,
+        36.599999994039536,
+        75.79999999701977,
+        35.400000005960464,
+        37.5
+    ],
+    "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d": [
+        36.20000000298023,
+        82.40000000596046,
+        37.70000000298023,
+        36.20000000298023,
+        36.599999994039536,
+        36.80000001192093,
+        41.19999998807907,
+        75,
+        36.79999999701977,
+        36.400000005960464
+    ],
+    "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg": [
+        93.8999999910593,
+        71.70000000298023,
+        71.8999999910593,
+        71.1000000089407,
+        67.79999999701977,
+        93.3999999910593,
+        70.90000000596046,
+        75.29999999701977,
+        72.79999999701977,
+        81.40000000596046
+    ],
+    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png": [
+        93.70000000298023,
+        71.3999999910593,
+        71.90000000596046,
+        70.90000000596046,
+        21.400000005960464,
+        93.79999999701977,
+        70.6000000089407,
+        75.1000000089407,
+        72.90000000596046,
+        80.90000000596046
+    ],
+    "mwStartup": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=rqy9n": [
+        44.599999994039536,
+        43.599999994039536,
+        37.80000001192093,
+        36.70000000298023,
+        40.30000001192093,
+        38.900000005960464,
+        38.599999994039536,
+        38.20000000298023,
+        41.79999999701977,
+        41.69999998807907
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=tkizk": [
+        41,
+        46.79999999701977,
+        43.3999999910593,
+        43.3999999910593,
+        42.5,
+        48.599999994039536,
+        89.09999999403954,
+        45.3999999910593,
+        39.599999994039536,
+        40.599999994039536
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=1can7": [
+        88,
+        97.5,
+        88.5,
+        87.30000001192093,
+        93.90000000596046,
+        89.29999999701977,
+        88.5,
+        91.29999999701977,
+        88.8999999910593,
+        88.1000000089407
+    ],
+    "first-paint": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "first-contentful-paint": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "https://en.wikipedia.org/static/images/project-logos/enwiki-2x.png": [
+        44.70000000298023,
+        36.599999994039536,
+        36.20000000298023,
+        37,
+        37.099999994039536,
+        42.400000005960464,
+        38.5,
+        38.1000000089407,
+        37.30000001192093
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.referencePreviews%7Cext.math.popup%7Cext.popups.main&skin=vector-2022&version=h7wfj": [
+        38.900000005960464,
+        38,
+        42.5,
+        39.400000005960464,
+        39.5,
+        42.099999994039536,
+        37.599999994039536,
+        37.80000001192093,
+        39.70000000298023
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=p2fmq": [
+        36.099999994039536,
+        37.70000000298023,
+        39.5,
+        37.29999999701977,
+        36.5,
+        40.099999994039536,
+        38.79999999701977,
+        35.70000000298023,
+        36.29999999701977
+    ],
+    "https://en.wikipedia.org/static/favicon/wikipedia.ico": [
+        37.70000000298023,
+        35.70000000298023,
+        41.20000000298023,
+        46.099999994039536,
+        36
+    ],
+    "https://en.wikipedia.org/w/load.php?lang=en&modules=skins.vector.search.codex.scripts%7Cvue&skin=vector-2022&version=mklvv": [
+        52.20000000298023,
+        42.70000000298023
+    ],
+    "https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=script": [
+        150.09999999403954
+    ],
+    "https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader&campaign=C24_WMDE_Desktop_EN_05&banner=B24_WMDE_Desktop_EN_05_var&uselang=en&debug=false": [
+        188
+    ],
+    "mwCentralNoticeBanner": [
+        0
+    ]
+}
